@@ -1,0 +1,19 @@
+﻿{
+    "channel":  "stable",
+    "versions":  [
+                     {
+                         "tag":  "v37",
+                         "name":  "LONAS_UV v37",
+                         "build":  "2026-08-12-v37",
+                         "published":  "2026-08-12",
+                         "url":  "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/v37/LONAS_UV_v37.zip"
+                     },
+                     {
+                         "tag":  "v36",
+                         "name":  "LONAS_UV v36",
+                         "build":  "2026-08-12-v36",
+                         "published":  "2026-08-12",
+                         "url":  "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/v36/LONAS_UV_v36.zip"
+                     }
+                 ]
+}
