@@ -1,0 +1,54 @@
+{
+    "channel":  "stable",
+    "versions":  [
+                     {
+                         "tag":  "v72",
+                         "name":  "LONAS_UV v72",
+                         "build":  "2026-08-17-v72",
+                         "published":  "2026-08-17",
+                         "url":  "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/v72/LONAS_UV_v72.zip"
+                     },
+                     {
+                         "tag":  "v65",
+                         "name":  "LONAS_UV v65",
+                         "build":  "2026-08-14-v65",
+                         "published":  "2026-08-14",
+                         "url":  "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/v65/LONAS_UV_v65.zip"
+                     },
+                     {
+                         "tag":  "v57",
+                         "name":  "LONAS_UV v57",
+                         "build":  "2026-08-13-v57",
+                         "published":  "2026-08-13",
+                         "url":  "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/v57/LONAS_UV_v57.zip"
+                     },
+                     {
+                         "tag":  "v56",
+                         "name":  "LONAS_UV v56",
+                         "build":  "2026-08-13-v56",
+                         "published":  "2026-08-13",
+                         "url":  "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/v56/LONAS_UV_v56.zip"
+                     },
+                     {
+                         "tag":  "v55",
+                         "name":  "LONAS_UV v55",
+                         "build":  "2026-08-13-v55",
+                         "published":  "2026-08-13",
+                         "url":  "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/v55/LONAS_UV_v55.zip"
+                     },
+                     {
+                         "tag":  "v37",
+                         "name":  "LONAS_UV v37",
+                         "build":  "2026-08-12-v37",
+                         "published":  "2026-08-12",
+                         "url":  "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/v37/LONAS_UV_v37.zip"
+                     },
+                     {
+                         "tag":  "v36",
+                         "name":  "LONAS_UV v36",
+                         "build":  "2026-08-12-v36",
+                         "published":  "2026-08-12",
+                         "url":  "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/v36/LONAS_UV_v36.zip"
+                     }
+                 ]
+}
