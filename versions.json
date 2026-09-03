@@ -1,0 +1,12 @@
+{
+    "channel": "stable",
+    "versions": [
+        {
+            "tag": "1.001",
+            "name": "LONAS_UV 1.001",
+            "build": "1.001",
+            "published": "2026-09-03",
+            "url": "https://github.com/sinyorlonas/LONAS_UV-releases/releases/download/1.001/LONAS_UV_1.001.zip"
+        }
+    ]
+}
