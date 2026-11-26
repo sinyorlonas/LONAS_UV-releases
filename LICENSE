@@ -1,0 +1,28 @@
+LONAS_UV — Software License
+
+Copyright (c) 2026 Lonas (https://github.com/sinyorlonas). All rights reserved.
+
+LONAS_UV and the files published in this repository and its releases (the "Software")
+are owned by Lonas. They are not open source.
+
+You may:
+  - download the Software from this repository's releases, and
+  - install and use it on your own computers, for personal and commercial work.
+
+You may not, without written permission from Lonas:
+  - copy, share, upload, sell, rent or otherwise redistribute the Software;
+  - modify, decompile, disassemble or reverse engineer it, except where the law
+    allows this regardless of this license;
+  - remove or change any copyright notice, name or logo in it;
+  - use the name "Lonas", "LONAS_UV" or the Lonas logo for other products.
+
+Work you create with the Software is yours.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL LONAS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR ITS USE.
+
+Lonas may change these terms for future versions. Each version is governed by the
+license published with it.
